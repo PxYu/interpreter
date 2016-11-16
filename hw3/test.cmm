@@ -1,0 +1,18 @@
+int a;
+double b;
+a = 12;
+b = -3.0;
+write (a*b + a - b);
+
+while (a >= 7) {
+    a = a - 1;
+}
+
+int c;
+c = 4;
+
+if (c == 4) {
+    a = a - 1;
+} else {
+    a = a + 1;
+}
